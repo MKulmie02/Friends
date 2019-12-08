@@ -1,0 +1,10 @@
+html {
+    font-family: 'Kanit', sans-serif;
+}
+
+img {
+    border: 1px solid white;
+    border-radius: 20%;
+    height: 300px;
+    width: 250px;
+}
