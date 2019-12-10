@@ -8,3 +8,14 @@ img {
     height: 300px;
     width: 250px;
 }
+
+.nav {
+    display: inline-block;
+    background-color: lightblue;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px lightblue solid;
+    border-radius: 20%;
+}
